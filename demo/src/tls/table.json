@@ -1,0 +1,194 @@
+[
+  {
+    "prop": "plot",
+    "label": "样地",
+    "type": "文本",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 150
+  },
+  {
+    "prop": "tree_no",
+    "label": "样木号",
+    "type": "整数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "species",
+    "label": "树种",
+    "type": "自定代码",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "dbh",
+    "label": "胸径",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "measure_dbh",
+    "label": "实测胸径",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "tree_height",
+    "label": "树高",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "measure_tree_height",
+    "label": "实测树高",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "trunk_vol",
+    "label": "树干体积",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "measure_trunk_vol",
+    "label": "实测树干体积",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "trunk_density",
+    "label": "树干密度",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "branch_vol",
+    "label": "树枝体积",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "branch_density",
+    "label": "树枝密度",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "total_vol",
+    "label": "总体积",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "trunk_length",
+    "label": "树干长度",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "branch_length",
+    "label": "树枝长度",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "branch_num",
+    "label": "树枝分支数",
+    "type": "整数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 100
+  },
+  {
+    "prop": "cbh",
+    "label": "枝下高",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 100
+  },
+  {
+    "prop": "trunk_surface_density",
+    "label": "树皮密度",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "trunk_surface_area",
+    "label": "树干面积",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "branches_surface_area",
+    "label": "枝干面积",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "crown_width",
+    "label": "冠幅",
+    "type": "小数",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 120
+  },
+  {
+    "prop": "is_file_label",
+    "label": "是否提交点云",
+    "type": "文本",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 220
+  },
+  {
+    "prop": "location",
+    "label": "位置说明",
+    "type": "文本",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 220
+  },
+  {
+    "prop": "bak",
+    "label": "备注说明",
+    "type": "文本",
+    "isfilter": true,
+    "isgetonly": true,
+    "width": 220
+  }
+]
